@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 
 ### 📄 My CV
 
-📎 CV Updated.pdf(#)
+📎 https://github.com/ignalazaro/ignalazaro/blob/3608b3b807b920c8b29a285cb5e0fa25591d36b5/CV%20Updated.pdf (#)
 
 ### 🚀 Streamlit Self-Presentation & Project Showcase
 
