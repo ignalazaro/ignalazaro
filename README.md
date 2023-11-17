@@ -20,6 +20,17 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 - Deployment of machine learning models
 - Continuous improvement in data science practices
 
+### 📄 My CV
+
+📎 CV Updated.pdf(#)
+
+### 🚀 Streamlit Self-Presentation & Project Showcase
+
+Check out my Streamlit app where I introduce myself and showcase my first data science project:
+
+[![Streamlit App](https://share.streamlit.io/yourusername/your-streamlit-app/main/app.py)](https://share.streamlit.io/yourusername/your-streamlit-app/main/app.py)
+
+
 ### 🤝 Let's Connect!
 
 - LinkedIn: (https://www.linkedin.com/in/ignaciolázaro/)(#)
