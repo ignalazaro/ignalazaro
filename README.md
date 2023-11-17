@@ -22,12 +22,12 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 
 ### 🤝 Let's Connect!
 
-- LinkedIn: (https://www.linkedin.com/in/ignaciol%C3%A1zaro/)(#)
+- LinkedIn: (https://www.linkedin.com/in/ignaciolázaro/)(#)
 
 
 ### 📊 My GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues&hide_title=true&count_private=true&theme=radical)](https://github.com/ignalazaro)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignalazaro&show_icons=true&hide=issues&hide_title=true&count_private=true&theme=radical)](https://github.com/ignalazaro)
 
 ### 🎉 Fun Facts
 
