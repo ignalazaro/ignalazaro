@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to extract me
 
 Check out my Streamlit app where I introduce myself and showcase my first data science project:
 
-[![Streamlit App]([https://share.streamlit.io/yourusername/your-streamlit-app/main/app.py)](https://share.streamlit.io/yourusername/your-streamlit-app/main/app.py](https://roma-predict-prices.streamlit.app/))
+[![Streamlit App](https://refugees-flow-study-project.streamlit.app/)
 
 
 ### 🤝 Let's Connect!
